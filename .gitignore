@@ -1,0 +1,7 @@
+# Ambientes virtuais e configurações locais
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+
