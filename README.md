@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<title>Projeto Futebol - Web Scraping Transfermarkt</title>
-<style>
-    body {
-        font-family: Arial, Helvetica, sans-serif;
-        line-height: 1.6;
-        padding: 20px;
-        max-width: 900px;
-        margin: auto;
-        color: #222;
-        background: #fafafa;
-    }
-    h1, h2, h3 {
-        color: #1a73e8;
-    }
-    pre {
-        background: #1e1e1e;
-        padding: 15px;
-        border-radius: 8px;
-        color: #f8f8f2;
-        overflow-x: auto;
-        font-size: 14px;
-    }
-    ul {
-        margin-left: 20px;
-    }
-    .section {
-        margin-top: 35px;
-    }
-    .tag {
-        display: inline-block;
-        background: #1a73e8;
-        color: white;
-        padding: 3px 8px;
-        border-radius: 5px;
-        font-size: 12px;
-        margin-right: 6px;
-    }
-</style>
-</head>
 
-<body>
 
 <h1>⚽ Projeto Futebol – Web Scraping Transfermarkt (Brasileirão)</h1>
 
